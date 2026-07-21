@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img src="images/header.png" width="100%">
+</p>
 
-<!--
-**panibitlab/panibitlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⭐ Welcome to My Personal Lab
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student passionate about turning ideas into hardware projects, one circuit at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Interests
+- Embedded Systems
+- Electronics
+- Arduino
+- PyQt
+- Microcontrollers & Microprocessors
+- Circuit Design
+
+💻 Languages
+- C
+- Python
+- Arduino (C++)
+- Assembly
+
+🎯 Current Goal
+Building a Mini Retro Game Console!
+
+
